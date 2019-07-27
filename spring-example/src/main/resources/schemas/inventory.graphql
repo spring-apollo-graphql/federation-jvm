@@ -1,0 +1,9 @@
+type Product {
+    upc: String!
+    inStock: Boolean
+    quantity: Int
+}
+
+type Query {
+    getProduct: Product!
+}

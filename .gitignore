@@ -1,0 +1,6 @@
+/.idea/workspace.xml
+/.mvn/wrapper/maven-wrapper.jar
+target/
+.idea
+federation-spring-example.iml
+*.iml
